@@ -1,0 +1,1 @@
+This repository is a collection of works created for the Odin Project web developer course. 
